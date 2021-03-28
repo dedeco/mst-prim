@@ -1,4 +1,4 @@
-#Problema 
+# Problema 
 
 ## Yfazenda
 
@@ -35,6 +35,7 @@ A primeira linha da saída do seu programa deve consistir da frase comprimento d
 #### Teste 01
 
 **Entrada**:
+```
 6
 2 13
 1 19
@@ -42,18 +43,21 @@ A primeira linha da saída do seu programa deve consistir da frase comprimento d
 4 17
 9 5
 8 1
+```
 
 **Saída**:
+```
 comprimento de cabeamento minimo: 33.6013
 0 3
 0 4
 1 3
 2 4
 4 5
-
+```
 #### Teste 02
 
 **Entrada**:
+```
 6
 15 18
 11 12
@@ -61,20 +65,20 @@ comprimento de cabeamento minimo: 33.6013
 19 15
 8 18
 0 6
-
+```
 **Saída**:
-
+```
 comprimento de cabeamento minimo: 39.3004
 0 3
 0 4
 1 4
 1 5
 2 4
-
+```
 #### Teste 03
 
 **Entrada**:
-
+```
 7
 6 6
 0 0
@@ -83,9 +87,9 @@ comprimento de cabeamento minimo: 39.3004
 9 4
 12 13
 19 3
-
+```
 **Saída**:
-
+```
 comprimento de cabeamento minimo: 40.1575
 0 1
 0 4
@@ -93,7 +97,7 @@ comprimento de cabeamento minimo: 40.1575
 2 5
 3 4
 3 6
-
+```
 ### Observações
 
 * Você deve incluir, no início do seu programa, uma breve descrição dos objetivos do programa, da entrada e da saída, além do seu nome e do seu RA.
